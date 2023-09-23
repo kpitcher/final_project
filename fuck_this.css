@@ -1,0 +1,88 @@
+@charset "UTF-8";
+body {
+	background-image: url(linked_logo&_background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+}
+/*Kevin Powell youtube video controlling background image.
+pay attention to the background-size code.*/
+.shit {
+	Color: orange;
+	text-align: center;
+	margin-right: 120px;
+	font-family:"Shlop-Regular";
+	font-size: 25px;
+	/*padding-top: 10px;*/
+}
+.nav {
+	color: orange;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 30px 85px;
+	text-decoration: none;
+	
+}
+li {
+	float: right;
+}
+footer {
+	color: orange;
+}
+.footer-bottom {
+	margin-top: 460px;
+	margin-left: 50px;
+	position: absolute;
+}
+charset "UTF-8";
+body {
+	background-image: url("Original_art/website_mockup_resized2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+}
+/*Kevin Powell youtube video controlling background image.
+pay attention to the background-size code.*/
+.shit {
+	Color: orange;
+	text-align: center;
+	margin-right: 120px;
+	font-family:"Shlop-Regular";
+	font-size: 25px;
+	/*padding-top: 10px;*/
+}
+.nav {
+	color: orange;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 30px 85px;
+	text-decoration: none;
+	
+}
+li {
+	float: right;
+}
+footer {
+	color: orange;
+}
+.footer-bottom {
+	margin-top: 460px;
+	margin-left: 50px;
+	position: flex;
+}
